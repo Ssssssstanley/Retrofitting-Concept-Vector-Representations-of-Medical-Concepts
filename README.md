@@ -11,4 +11,4 @@ Estimation of semantic similarity and relatedness between biomedical concepts ha
 
 We evaluated this approach on the UMNSRS benchmark. Our results demonstrate that retrofitting of concept vector representations leads to better correlation with human raters for both similarity and relatedness, surpassing the best results reported to date. We also demonstrated a clear improvement on the correlation with standards from retrofitted vector representation compared to the vector representation without retrofitting.
 
-Below is a 
+Below are
