@@ -14,5 +14,8 @@ We evaluated this approach on the UMNSRS benchmark. Our results demonstrate that
 Below is an example of this approach.
 
 Pre_requirment: 
-1, Python working environment, 2, Concept based word2vector model based on whole PubMed citations (download here: https://www.dropbox.com/s/qdnbs4742x3vsss/w2v-model-PubMed-CUIs-10.bin?dl=0)
+1, Python 2.7 working environment (if you are using pyhton 3.0, please change codes accordingly), 2, Concept based word2vector model based on whole PubMed citations (download here: https://www.dropbox.com/s/qdnbs4742x3vsss/w2v-model-PubMed-CUIs-10.bin?dl=0)
 
+Step 1: Download or clone this repository to local computer
+
+Step 2: 
