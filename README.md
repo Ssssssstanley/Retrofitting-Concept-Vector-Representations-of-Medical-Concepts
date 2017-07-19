@@ -59,4 +59,4 @@ With Retrofitting RN+RO:  SpearmanrResult(correlation=0.61923908588316456, pvalu
 
 Please contact Zhiguo Yu (zhiguoyu1989@gmail.com) or Dr. Cohen (Trevor.Cohen@uth.tmc.edu) for questions or comments.
 
-Also please cite it if you find this work useful.
+Also please cite this paper if you find this work useful.
