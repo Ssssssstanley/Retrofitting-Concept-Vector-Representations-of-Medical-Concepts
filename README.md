@@ -43,11 +43,15 @@ RUN "Python test.py"
 The output like this:
 
 "Spearman Correlation Coefficient result comparing with reference Set 
+
 *******Similarity*********
+
 Without Retrofitting:  SpearmanrResult(correlation=0.63901547596985031, pvalue=1.0426455553394516e-61)
 
 With Retrofitting RN+RO:  SpearmanrResult(correlation=0.68880357872014775, pvalue=3.1905125515381359e-75)
+
 *********Relatedness********
+
 Without Retrofitting:  SpearmanrResult(correlation=0.58485729932498276, pvalue=3.8574793801766251e-51)
 
 With Retrofitting RN+RO:  SpearmanrResult(correlation=0.61923908588316456, pvalue=8.4545212393655436e-59)
