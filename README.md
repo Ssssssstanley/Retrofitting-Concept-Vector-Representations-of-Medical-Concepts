@@ -1,4 +1,4 @@
-# Retrofitting-Concept-Vector-Representations-of-Medical-Concepts (Published in MedInfo 2017)
+# Retrofitting Concept Vector Representations of Medical Concepts (Published in MedInfo 2017)
 Zhiguo Yu, Todd Johnson, Trevor Cohen
 
 The University of Texas School of Biomedical Informatics at Houston, Houston, Texas, USA,
